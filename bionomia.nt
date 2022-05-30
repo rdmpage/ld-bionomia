@@ -1,0 +1,296 @@
+<https://bionomia.net/0000-0003-3522-9342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://bionomia.net/0000-0003-3522-9342> <http://schema.org/familyName> "Prina" .
+<https://bionomia.net/0000-0003-3522-9342> <http://schema.org/givenName> "Anibal" .
+<https://bionomia.net/0000-0003-3522-9342> <http://schema.org/name> "Anibal Prina" .
+<https://bionomia.net/0000-0003-3522-9342> <http://schema.org/sameAs> "https://orcid.org/0000-0003-3522-9342" .
+<https://bionomia.net/0000-0003-3522-9342> <https://www.w3.org/ns/activitystreams#current> "https://bionomia.net//0000-0003-3522-9342/specimens.jsonld?page=1" .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416832549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416832549> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/catalogNumber> "216810" .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/family> "Fabaceae" .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/identifiedBy> "Ulibarri, E. A." .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416832549> <http://rs.tdwg.org/dwc/terms/scientificName> "Adesmia acuta Burkart" .
+<https://bionomia.net/occurrence/416832549> <http://schema.org/sameAs> "https://gbif.org/occurrence/416832549" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416844542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416844542> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/catalogNumber> "322408" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/family> "Poaceae" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/identifiedBy> "-" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/institutionCode> "SRFA" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416844542> <http://rs.tdwg.org/dwc/terms/scientificName> "Apera interrupta (L.) P. Beauv." .
+<https://bionomia.net/occurrence/416844542> <http://schema.org/sameAs> "https://gbif.org/occurrence/416844542" .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416844377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416844377> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/catalogNumber> "177955" .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/family> "Apiaceae" .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/identifiedBy> "Martínez, S. G." .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416844377> <http://rs.tdwg.org/dwc/terms/scientificName> "Anthriscus caucalis M. Bieb." .
+<https://bionomia.net/occurrence/416844377> <http://schema.org/sameAs> "https://gbif.org/occurrence/416844377" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416842379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416842379> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/catalogNumber> "156659" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/family> "Fabaceae" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/identifiedBy> "-" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416842379> <http://rs.tdwg.org/dwc/terms/scientificName> "Anarthrophyllum elegans (Gillies ex Hook. & Arn.) F. Phil." .
+<https://bionomia.net/occurrence/416842379> <http://schema.org/sameAs> "https://gbif.org/occurrence/416842379" .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416842303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416842303> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/catalogNumber> "367191" .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/family> "Fabaceae" .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/identifiedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416842303> <http://rs.tdwg.org/dwc/terms/scientificName> "Anarthrophyllum macrophyllum Sorarú" .
+<https://bionomia.net/occurrence/416842303> <http://schema.org/sameAs> "https://gbif.org/occurrence/416842303" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416842281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416842281> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/catalogNumber> "367144" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/family> "Fabaceae" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/identifiedBy> "-" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416842281> <http://rs.tdwg.org/dwc/terms/scientificName> "Anarthrophyllum capitatum Sorarú" .
+<https://bionomia.net/occurrence/416842281> <http://schema.org/sameAs> "https://gbif.org/occurrence/416842281" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416842276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416842276> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/catalogNumber> "367138" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/family> "Fabaceae" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/identifiedBy> "-" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416842276> <http://rs.tdwg.org/dwc/terms/scientificName> "Anarthrophyllum burkartii Sorarú" .
+<https://bionomia.net/occurrence/416842276> <http://schema.org/sameAs> "https://gbif.org/occurrence/416842276" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416839681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416839681> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/catalogNumber> "360388" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/family> "Verbenaceae" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/identifiedBy> "-" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/institutionCode> "SRFA" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416839681> <http://rs.tdwg.org/dwc/terms/scientificName> "Aloysia gratissima (Gillies & Hook. ex Hook.) Tronc. var. gratissima" .
+<https://bionomia.net/occurrence/416839681> <http://schema.org/sameAs> "https://gbif.org/occurrence/416839681" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416836817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416836817> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/catalogNumber> "326566" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/country> "Chile" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/countryCode> "CL" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/family> "Poaceae" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/identifiedBy> "-" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416836817> <http://rs.tdwg.org/dwc/terms/scientificName> "Agrostis imberbis Phil." .
+<https://bionomia.net/occurrence/416836817> <http://schema.org/sameAs> "https://gbif.org/occurrence/416836817" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416836640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416836640> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/catalogNumber> "254945" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/family> "Poaceae" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/identifiedBy> "-" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416836640> <http://rs.tdwg.org/dwc/terms/scientificName> "Agrostis glabra (J. Presl) Kunth var. glabra" .
+<https://bionomia.net/occurrence/416836640> <http://schema.org/sameAs> "https://gbif.org/occurrence/416836640" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416836571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416836571> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/catalogNumber> "326572" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/family> "Poaceae" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/identifiedBy> "-" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416836571> <http://rs.tdwg.org/dwc/terms/scientificName> "Agrostis glabra (J. Presl) Kunth var. glabra" .
+<https://bionomia.net/occurrence/416836571> <http://schema.org/sameAs> "https://gbif.org/occurrence/416836571" .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416833229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416833229> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/catalogNumber> "130323" .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/family> "Fabaceae" .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/identifiedBy> "Ulibarri, E. A." .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416833229> <http://rs.tdwg.org/dwc/terms/scientificName> "Adesmia grandiflora Gillies ex Hook. & Arn." .
+<https://bionomia.net/occurrence/416833229> <http://schema.org/sameAs> "https://gbif.org/occurrence/416833229" .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416833019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416833019> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/catalogNumber> "130330" .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/family> "Fabaceae" .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/identifiedBy> "Ulibarri, E. A." .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416833019> <http://rs.tdwg.org/dwc/terms/scientificName> "Adesmia corymbosa Clos var. corymbosa" .
+<https://bionomia.net/occurrence/416833019> <http://schema.org/sameAs> "https://gbif.org/occurrence/416833019" .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416833018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416833018> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/catalogNumber> "130321" .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/family> "Fabaceae" .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/identifiedBy> "Ulibarri, E. A." .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416833018> <http://rs.tdwg.org/dwc/terms/scientificName> "Adesmia corymbosa Clos var. corymbosa" .
+<https://bionomia.net/occurrence/416833018> <http://schema.org/sameAs> "https://gbif.org/occurrence/416833018" .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416832609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416832609> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/catalogNumber> "130326" .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/family> "Fabaceae" .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/identifiedBy> "Ulibarri, E. A." .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416832609> <http://rs.tdwg.org/dwc/terms/scientificName> "Adesmia aegiceras Phil." .
+<https://bionomia.net/occurrence/416832609> <http://schema.org/sameAs> "https://gbif.org/occurrence/416832609" .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416832555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416832555> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/catalogNumber> "216811" .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/family> "Fabaceae" .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/identifiedBy> "Ulibarri, E. A." .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/institutionCode> "TEX" .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416832555> <http://rs.tdwg.org/dwc/terms/scientificName> "Adesmia acuta Burkart" .
+<https://bionomia.net/occurrence/416832555> <http://schema.org/sameAs> "https://gbif.org/occurrence/416832555" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416830775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416830775> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/catalogNumber> "324645" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/family> "Verbenaceae" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/identifiedBy> "-" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/institutionCode> "SI" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416830775> <http://rs.tdwg.org/dwc/terms/scientificName> "Acantholippia seriphioides (A. Gray) Moldenke" .
+<https://bionomia.net/occurrence/416830775> <http://schema.org/sameAs> "https://gbif.org/occurrence/416830775" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/iri/recordedBy> <https://bionomia.net/0000-0003-3522-9342> .
+<https://bionomia.net/occurrence/416830699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/PreservedSpecimen> .
+<https://bionomia.net/occurrence/416830699> <http://rs.gbif.org/terms/1.0/datasetKey> "f5de707d-eba1-4f1a-b1df-1a7fa27b1bc7" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/basisOfRecord> "PRESERVED_SPECIMEN" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/catalogNumber> "324644" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/collectionCode> "HERB" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/country> "Argentina" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/countryCode> "AR" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/family> "Verbenaceae" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/identifiedBy> "-" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/institutionCode> "SRFA" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/license> "CC_BY_4_0" .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/recordedBy> "Prina, A. O." .
+<https://bionomia.net/occurrence/416830699> <http://rs.tdwg.org/dwc/terms/scientificName> "Acantholippia seriphioides (A. Gray) Moldenke" .
+<https://bionomia.net/occurrence/416830699> <http://schema.org/sameAs> "https://gbif.org/occurrence/416830699" .
+
+
