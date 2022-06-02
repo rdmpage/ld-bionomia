@@ -17,6 +17,7 @@ $cuid = new EndyJasmi\Cuid;
 
 
 $force = false;
+//$force = true;
 
 
 $files1 = scandir($config['cache']);
@@ -42,6 +43,21 @@ foreach ($files1 as $directory)
 				$json = get_one($id);
 				
 				// fix JSON
+				
+				// fix Bionomia context
+				{
+					$obj = json_decode($json);
+					if (!isset($obj->{'@context'}->sameAs))
+					{
+	
+						$sameAs = new stdclass;
+						$sameAs->{'@id'} = "sameAs";
+						$sameAs->{'@type'} = "@id";
+						$obj->{'@context'}->sameAs = $sameAs;
+		
+						$json = json_encode($obj);
+					}
+				}				
 				
 				$bad_json = false;
 				

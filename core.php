@@ -14,7 +14,7 @@ fix_triples: do anything you need to make triples acceptable to a triple store
 
 $config['cache']	= dirname(__FILE__) . '/cache';
 $config['fresh'] 	= 60; // time in seconds beyond which we think data needs to be refreshed
-$config['url'] 		= 'https://bionomia.net/<ID>/specimens.jsonld';
+$config['url'] 		= 'https://bionomia.net/<ID>/specimens.jsonld?page=<PAGE>';
 $config['mime']		= '';
 
 $fetch_count 		= 1;
@@ -70,18 +70,24 @@ function get($url, $format = '')
 }
 
 //----------------------------------------------------------------------------------------
-function id_to_filename($id)
+function id_to_filename($id, $page = 0)
 {
-	return $id . '.json';
+	$filename = $id;
+	
+	if ($page > 0)
+	{
+		$filename .= '-' . $page;
+	}
+	return $filename . '.json';
 }
 
 
 //----------------------------------------------------------------------------------------
-function id_to_path($id)
+function id_to_path($id, $page = 0)
 {
 	global $config;
 
-	$path = $config['cache'] . '/' . id_to_dir($id) . '/' . id_to_filename($id);
+	$path = $config['cache'] . '/' . id_to_dir($id) . '/' . id_to_filename($id, $page);
 	
 	return $path;
 	
@@ -171,18 +177,41 @@ function fetch_one($id, $force = false)
 			umask($oldumask);
 		}
 		
-		$url = $config['url'];
-		$url = str_replace('<ID>', $id, $url);
-		$json = get($url, $config['mime']);
+		$page_count = 1;
 		
-		file_put_contents($filename, $json);
+				
+		$done = false;
 		
-		// Give server a break every 10 items
-		if (($fetch_count++ % 10) == 0)
-		{
-			$rand = rand(1000000, 3000000);
-			echo "\n...sleeping for " . round(($rand / 1000000),2) . ' seconds' . "\n\n";
-			usleep($rand);
+		while (!$done)
+		{		
+			$url = $config['url'];
+			$url = str_replace('<ID>', $id, $url);
+			$url = str_replace('<PAGE>', $page_count, $url);
+		
+			$json = get($url, $config['mime']);
+		
+			file_put_contents($filename, $json);
+		
+			// bionomia may have multiple pages
+			$obj = json_decode($json);
+			if (isset($obj->{'as:next'}))
+			{
+				$page_count++;
+				
+				$filename = id_to_path($id, $page_count);	
+			}
+			else
+			{
+				$done = true;
+			}
+			
+			// Give server a break every 10 items
+			if (($fetch_count++ % 10) == 0)
+			{
+				$rand = rand(1000000, 3000000);
+				echo "\n...sleeping for " . round(($rand / 1000000),2) . ' seconds' . "\n\n";
+				usleep($rand);
+			}
 		}
 
 	}

@@ -17,33 +17,57 @@ $nquads = new NQuads();
 
 
 $id = '0000-0003-3522-9342';
+$id = '0000-0003-4013-3804';
 
 $directory = $config['cache'] . '/' . id_to_dir($id);
 
-$filename = $directory . '/' . $id . '.json';
+$files = scandir($directory);
 
 $output = $directory . '/' . $id . '.nt';
 
-
-echo $id . "\n";
-
-$json = file_get_contents($filename);
-
-//echo $json;
+$nt_output = '';
 
 
-$quads = JsonLD::toRdf($json);
-$serialized = $nquads->serialize($quads);
+foreach ($files as $filename)
+{
+	if (preg_match('/' . $id . '(.*)\.json/', $filename))
+	{
+		$json = file_get_contents($directory . '/' . $filename);
 
-//echo $serialized;
+		// fix context
+		{
+			$obj = json_decode($json);
+			if (!isset($obj->{'@context'}->sameAs))
+			{
+	
+				$sameAs = new stdclass;
+				$sameAs->{'@id'} = "sameAs";
+				$sameAs->{'@type'} = "@id";
+				$obj->{'@context'}->sameAs = $sameAs;
+		
+				$json = json_encode($obj);
+			}
+		}
 
-$serialized = fix_triples($serialized);
+		//echo $json;
 
-echo $serialized;
+		$quads = JsonLD::toRdf($json);
+		$serialized = $nquads->serialize($quads);
+
+		//echo $serialized;
+
+		$serialized = fix_triples($serialized);
+	
+		echo $serialized;
+	
+		$nt_output .= $serialized;
+	}
+}
+	
 
 echo "\n$filename\n";
 
-file_put_contents($output, $serialized);
+file_put_contents($output, $nt_output);
 
 
 ?>

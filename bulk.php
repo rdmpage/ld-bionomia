@@ -28,14 +28,12 @@ foreach ($files1 as $directory)
 				$ntfile = $config['cache'] . '/' . $directory . '/' . $filename;
 				
 				$modified = filemtime($ntfile);
-				
-		
+						
 				if ($modified > $since)
 				{
 					$triples = file_get_contents($ntfile);
 					echo $triples . "\n";
-				}
-				
+				}				
 				
 			}
 		}
